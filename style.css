@@ -1,0 +1,14 @@
+/* Typography */
+h1 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.author p {
+  font-size: 12px;
+}
+
+/*  */
