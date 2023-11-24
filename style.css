@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100%;
-  background: #f2f5f9;
+  font-family: "Lato", sans-serif;
 }
 
 /* Typography */
@@ -11,6 +11,8 @@ h1 {
 
 p {
   font-size: 16px;
+  color: #677489;
+  font-weight: 300;
 }
 
 /* Class */
@@ -20,34 +22,55 @@ main {
   align-items: center;
   justify-content: center;
   height: 100vh; /* 100% of the viewport height */
+  background-color: #F2F5F9;
 }
 
 .container {
-  /* Center the content */
-  width: 370px;
-  border: solid 1px;
-  border-radius: 10px;
+  width: 418px;
+  /*border: solid 1px;*/
+  position: relative;
+  background-color: white;
+  border-radius: 15px;
+
 }
 
 .image {
-  width: 350px;
-  position: relative;
+  width: 418px;
 }
 
 .author p {
   font-size: 12px;
 }
 
-/* ID */
-#hero {
-  width: 370px;
-  /* padding: 10px; */
-  border-radius: 10px;
+.hero {
+  width: 418px;
+  border-radius: 12px;
 }
 
-#overlay {
+.over-lay {
   position: absolute;
-  top: 0;
+  top: 213px;
   left: 0;
   z-index: 1;
 }
+
+.content {
+  padding: 0 32px;
+  /*border: solid;*/
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 50px;
+}
+
+.author {
+  padding: 0 32px;
+  display: flex;
+  border-top: 1px solid #F2F5F9;
+  align-content: center;
+  border: solid;
+}
+
+
+
