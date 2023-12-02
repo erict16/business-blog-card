@@ -37,7 +37,8 @@
 
 ## Overview
 
-![challenge-28](https://github.com/erict16/business-blog-card/assets/83531295/92821a4d-880c-4aa6-9baa-11458f87cdb4)
+![preivew](https://github.com/erict16/business-blog-card/assets/83531295/c5b5feeb-26c8-484f-8d9d-ad5f56ce4ecb)
+
 
 <br/>
 
@@ -80,4 +81,4 @@ $ git clone https://github.com/erict16/business-blog-card
 
 - Website [helloerictan.com](https://helloerictan.com)
 - GitHub [@erict16](https://github.com/erict16)
-- Twitter [@helloerictan](https://{twitter.com/helloerictan})
+- Twitter [@helloerictan](https://twitter.com/helloerictan)
